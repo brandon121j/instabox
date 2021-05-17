@@ -71,6 +71,8 @@
 .followed p {
     font-weight: bold;
     margin-top: -0px;
+    padding-right: 3px;
+    padding-left: 3px;
 }
 
 bio a{
