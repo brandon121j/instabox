@@ -66,6 +66,7 @@
     margin-top: 15px;
     display: flex;
     flex-direction: row;
+    width: 350px;
 }
 
 .followed p {
@@ -75,8 +76,13 @@
     padding-left: 3px;
 }
 
-bio a{
-    margin-top: 1000px;
+.bio a {
+    padding-top: 10px;
+}
+
+.bio img {
+    margin-left: 350px;
+    margin-top: -40px;
 }
 
 .bottom_container {
@@ -95,3 +101,4 @@ bio a{
 .pics b {
     text-align: center;
 }
+
